@@ -1,0 +1,32 @@
+Bonsoir,
+
+Ce projet est celui de:
+Léo BOURLIER
+Alexis GOMEZ
+Corentin BERNARD
+
+nous avons rencontré de lourds problèmes pour l'upload du site et n'avons donc pas
+pu le mettre en ligne malgré un début de création de domaine sur always data
+
+de plus les versions de symfony et de php changeant dernièrement, nous avons de nombreuses erreurs de compilation et la dernière
+sur bundle/app n'a pas pu être réglée
+
+néanmoins ce projet contient les 3 parties de travail réalisé par le groupe qui étaient avant fusion individuellement fonctionelles
+
+vous trouverez donc également les 3 parties du trvail individuellement faites par chaque étudiant pour vous faciliter la tache et limiter les erreurs
+
+Léo: Système de gestion utilisateur
+Alexis: Système de recherche/API de recherche 
+Corentin: Système de posts/API de recherche
+
+l'api  n'est cependant pa fonctionel
+
+aucun bonus n'a été tenté.
+
+lien du github : https://github.com/nhenki/SteaMade/tree/main
+
+la partie de code de Léo étant trop grosse en compréssé ou en décompréssé pour github
+elle ne se trouve donc pas dessus et sera envoyé par mail via un we transfer(déso j'ai pas eu d'autre choix)
+
+le rendu fut un peux tard a cause de problèmes de connexion et de temps d'upload sur le site de github(7 min par dossier ...
+ sans compter ceux qui ont planté)
